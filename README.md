@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning RustLang, C and Python
+- 🌱 I’m currently learning RustLang, Lua and Python
 - 🌍 I’m based in Russia, Moscow
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
